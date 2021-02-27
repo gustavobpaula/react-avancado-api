@@ -17,7 +17,7 @@
     },
     "priceInstallments": {
       "type": "integer",
-      "required": true
+      "required": false
     },
     "benefits": {
       "type": "richtext",
